@@ -27,8 +27,5 @@ npm run build:stage
 
 # 构建生产环境
 npm run build:prod
-测试能否成功
-代码修改了
-再次修改修改
-4次修改
+5次修改
 ```
